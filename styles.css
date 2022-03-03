@@ -20,7 +20,10 @@
     
 }
 
-
+a {
+    text-decoration: none !important;
+    color: white !important; 
+}
 
 #col1 {
     background-color:#D8E3E7;
@@ -29,6 +32,6 @@
 }
 
 #col2 {
-    background-color: rgb(157, 194, 241);   
+    background-color: rgb(213, 230, 252);   
 }
 
